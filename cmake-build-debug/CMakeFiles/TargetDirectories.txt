@@ -1,3 +1,0 @@
-C:/Users/Cesar Santos/Desktop/Algoritmos  e Logica com C/cmake-build-debug/CMakeFiles/Algoritmos__e_Logica_com_C.dir
-C:/Users/Cesar Santos/Desktop/Algoritmos  e Logica com C/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Cesar Santos/Desktop/Algoritmos  e Logica com C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
